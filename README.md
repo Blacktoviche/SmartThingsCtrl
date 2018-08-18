@@ -5,6 +5,10 @@ Upload sketch ( esp_sketch.ino ) to ESP8266
 change the IP address in the mobile app ( App.js ) to ESP IP Address and you ready to go..
 
 
+![](https://raw.githubusercontent.com/Blacktoviche/SmartThingsCtrl/master/Screenshot.jpeg)
 
+
+## License
+- [MIT](LICENSE)
 
 Twitter [@SyrianDeveloper](https://www.twitter.com/SyrianDeveloper)
